@@ -778,6 +778,7 @@ footer.nb-footer .copyright p {
   ._section-two .content-wrapper h2, ._section-two .content-wrapper p {
     margin-right: 0px;
   }
+  
   header ._header ._header-links {
     position: relative;
     padding: 5px 3px 5px 0;
@@ -852,7 +853,7 @@ footer.nb-footer .copyright p {
     padding-bottom: 150px;
   }
   .animal-container .overview .description {
-    margin-right: 15px;
+    margin-right: 0px;
   }
   .animal-container .swiper-pagination .swiper-pagination-bullet {
     background: var(--white);
