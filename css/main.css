@@ -39,6 +39,7 @@ header ._header {
 
 header ._header ._header-links {
   position: relative;
+ margin: 0px;
   padding: 5px 25px 5px 0;
 }
 
@@ -680,6 +681,10 @@ footer.nb-footer .copyright p {
   ._section-three{
     margin-top: -180px;
   }
+  header ._header ._header-links {
+    position: relative;
+    padding: 5px 3px 5px 0;
+  }
   .animal-container .img-container .img-wrapper:nth-child(4) img {
     padding-bottom: 30px;
     width: 200px;
@@ -771,7 +776,7 @@ footer.nb-footer .copyright p {
     
   }
   ._section-two .content-wrapper h2, ._section-two .content-wrapper p {
-    margin-right: 22px;
+    margin-right: 0px;
   }
   header ._header ._header-links {
     position: relative;
